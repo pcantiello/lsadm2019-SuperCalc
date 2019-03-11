@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SuperCalc</string>
+    <string name="operando">Operando</string>
+    <string name="opInvalidi">Operandi non validi</string>
+    <string name="divbyzero">Divisione per zero non possibile</string>
+    <string name="risultato">%f %s %f = %f</string>
+</resources>
